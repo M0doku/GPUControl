@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GPUControl.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="programName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Program Name</Value>
+    </Setting>
+    <Setting Name="tempGPU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">70</Value>
+    </Setting>
+    <Setting Name="programFullPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Folder Path</Value>
+    </Setting>
+    <Setting Name="isStartup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
