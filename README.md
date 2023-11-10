@@ -3,7 +3,7 @@ GPUControl - программа для автоматического запус
 
 
 ## UI
-<img src="https://github.com/M0doku/GPUControl/assets/88943677/c262f17f-e1b3-41f8-a13a-60e2775a12dc"/>
+<img src="https://github.com/M0doku/GPUControl/assets/88943677/cca4d820-513a-49f4-87f5-f15979f83dea"/>
 
 ## Как пользоваться?
 1. Выбрать .exe файл необходимой утилиты.
